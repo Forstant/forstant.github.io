@@ -17,7 +17,6 @@ You can download my full CV here:
 ## Research Interests
 
 - Large Language Models
-- Domain-specific LLMs
 - Multi-Agent Systems
 - Generative Recommendation
 
