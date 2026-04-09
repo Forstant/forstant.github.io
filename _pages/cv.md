@@ -6,9 +6,9 @@ redirect_from:
   - /resume/
 ---
 
-You can download my full CV here:
+You can download my CV and transcript here:
 
-- [CV (PDF)](/files/CV_Yuanxin_Li.pdf)
+[Download CV + Transcript](/files/Yuanxin_Li_CV_Transcript.pdf){:target="_blank"}
 
 ## Current Position
 
