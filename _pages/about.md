@@ -9,12 +9,11 @@ redirect_from:
 
 I am currently an M.S. student in Computer Science at **Sun Yat-sen University (SYSU)**, advised by **Prof. Chang-Dong Wang**. Previously, I received my B.Eng. in Artificial Intelligence from **Beijing University of Posts and Telecommunications (BUPT)**.
 
-My research interests lie in **large language models**, **domain-specific intelligence**, **multi-agent systems**, and **generative recommendation systems**. I am particularly interested in building practical machine learning systems that combine strong modeling ability with efficient adaptation to real-world tasks.
+My research interests lie in **large language models**, **multi-agent systems**, and **generative recommendation systems**.
 
 ## Research Interests
 
 - Large Language Models (LLMs)
-- Domain-specific LLMs
 - Multi-Agent Systems
 - Generative Recommendation
 - LLM Post-training and Prompting
